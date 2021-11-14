@@ -34,8 +34,7 @@ ABOUT = """
 
 ➥ Developer :  Arjun Pradeep
     
-➥ Creator : [Arjun Pradeep](
-https://t.me/Arjunbots)
+➥ Creator : [Arjun Pradeep](https://t.me/Arjunbots)
 
 ➥ Language : Python3
 
