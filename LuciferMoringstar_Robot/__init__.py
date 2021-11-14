@@ -28,9 +28,9 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Salena
+➥ Name :  Selena
 
-➥ Full Name :  Salena Gomez
+➥ Full Name :  Selena Gomez
 
 ➥ Developer :  Arjun Pradeep
     
