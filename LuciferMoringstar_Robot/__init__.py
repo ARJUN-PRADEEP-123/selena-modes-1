@@ -28,14 +28,18 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  Salena
+
+➥ Full Name :  Salena Gomez
+
+➥ Developer :  Arjun Pradeep
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [Arjun Pradeep](
+https://t.me/Arjunbots)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Join Channel : [Click Me](https://t.me/squid_game_full_eps)
 """
