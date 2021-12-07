@@ -13,7 +13,7 @@
       "inline"
     ],
     "website": "https://github.com/Mahesh0253/Media-Search-bot",
-    "repository": "https://github.com/Mahesh0253/Media-Search-bot",
+    "repository": "https://github.com/ARJUN-PRADEEP-123/selena-modes-1.git",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -47,7 +47,7 @@
         },
         "INVITE_MSG": {
             "description": "Auth channel invitation message",
-            "value": "'Please join @.... to use this bot'",
+            "value": "'Please join'",
             "required": false
         },
         "USE_CAPTION_FILTER": {
