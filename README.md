@@ -7,9 +7,10 @@
 ## Installation
 
 ### Watch this video to create bot - https://youtu.be/dsuTn4qV2GA
-### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+### DEPLOY
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ARJUN-PRADEEP-123/selena-modes-1.git)
 
 ### Hard Way
 
